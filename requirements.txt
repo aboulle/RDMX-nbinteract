@@ -1,7 +1,0 @@
-nbinteract
-numpy
-scipy
-jupyter
-ipywidgets
-bqplot
-xrayutilities
