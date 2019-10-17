@@ -1,3 +1,4 @@
+nbinteract
 numpy
 scipy
 jupyter
