@@ -1,7 +1,6 @@
 channels:
   - conda-forge
 dependencies:
-  - nbinteract
   - numpy
   - scipy
   - ipywidgets
@@ -9,3 +8,4 @@ dependencies:
   - pip
   - pip:
     - xrayutilities
+    - nbinteract
