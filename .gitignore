@@ -1,0 +1,8 @@
+.directory
+.ipynb_checkpoints/
+Masters/
+Test data/
+__pycache__/
+*.ogv
+*.mov
+last_path
